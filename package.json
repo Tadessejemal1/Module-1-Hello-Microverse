@@ -1,0 +1,23 @@
+{
+  "name": "microverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tadessejemal1/Module-1-Hello-Microverse.git"
+  },
+  "keywords": [],
+  "author": "Tadesse jemal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tadessejemal1/Module-1-Hello-Microverse/issues"
+  },
+  "homepage": "https://github.com/Tadessejemal1/Module-1-Hello-Microverse#readme",
+  "devDependencies": {
+    "hint": "^7.0.1"
+  }
+}
